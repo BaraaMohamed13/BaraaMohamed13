@@ -1,21 +1,58 @@
-<h1 align="center">Hi 👋, I'm Baraa Mohamed</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baraamohamed13&label=Profile%20views&color=0e75b6&style=flat" alt="baraamohamed13" /> </p>
-
-- 📫 How to reach me **Braamohamed14@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/baraa mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baraa mohamed" height="30" width="40" /></a>
-<a href="https://discord.gg/baraamohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="baraamohammed" height="30" width="40" /></a>
+<div class="container">
+<div class="header-container" align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Baraa+Mohamed.+👋;A+passionate+frontend+developer." alt="Typing SVG"/>
+</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=baraamohamed13&label=Profile%20views&color=0e75b6&style=flat" alt="baraamohamed13" /> </p>
+<p align='center'>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxmOHFyc3l3MnFyam14emNmZmlhc2J4bjRpc2piM2d1aGNjbmE4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="350px"/>
 </p>
+  <p align='center'>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/baraa-mohamed-b05294206/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:braamohamed14@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="baraamohammed?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/discord-8746FF.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<img height="20px"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baraamohamed13&show_icons=true&locale=en&layout=compact" alt="baraamohamed13" /></p>
+<div class="gif-container" align="center">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baraamohamed13&show_icons=true&locale=en" alt="baraamohamed13" /></p>
+<img height="20px"/>
+<img height="10px"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baraamohamed13&" alt="baraamohamed13" /></p>
+<div class="skills">
+
+## **Skills & technologies**
+<img height="10px"/>
+
+<div class="skills-container learned">
+    <p class="icons">
+        <img src="https://skillicons.dev/icons?i=react,js,html,css,java,xd,git,sass,bootstrap,firebase" />
+    </p>
+</div>
+
+<img height="10px"/>
+
+## **Interested in learning**
+<img height="10px"/>
+
+<div class="skills-container learning">
+    <p class="icons">
+        <img src="https://skillicons.dev/icons?i=vue,nextjs,nodejs,angular,vite,materialui,threejs,ts,express,fastapi,mongodb,bash,linux,figma" />
+    </p>
+</div>
+
+<img height="10px"/>
+
+
+<img height="20px"/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baraamohamed13&show_icons=true&theme=dark&locale=en&layout=compact" alt="baraamohamed13" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baraamohamed13&show_icons=true&theme=dark&locale=en" alt="baraamohamed13" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baraamohamed13&theme=dark" alt="baraamohamed13" /></p>
+
+
+</div>
