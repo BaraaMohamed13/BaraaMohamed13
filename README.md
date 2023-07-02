@@ -4,7 +4,8 @@
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=baraamohamed13&label=Profile%20views&color=0e75b6&style=flat" alt="baraamohamed13" /> </p>
 <p align='center'>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxmOHFyc3l3MnFyam14emNmZmlhc2J4bjRpc2piM2d1aGNjbmE4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="350px"/>
+<img 
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxmOHFyc3l3MnFyam14emNmZmlhc2J4bjRpc2piM2d1aGNjbmE4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="340px"/>
 </p>
   <p align='center'>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -12,19 +13,10 @@
   <a href="mailto:braamohamed14@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="baraamohammed?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/discord-8746FF.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<img height="20px"/>
-
-
-<div class="gif-container" align="center">
-</div>
-
-<img height="20px"/>
-<img height="10px"/>
-
+<br>
 <div class="skills">
 
 ## **Skills & technologies**
-<img height="10px"/>
 
 <div class="skills-container learned">
     <p class="icons">
@@ -32,9 +24,10 @@
     </p>
 </div>
 
-<img height="10px"/>
+<br>
 
 ## **Interested in learning**
+
 <img height="10px"/>
 
 <div class="skills-container learning">
@@ -43,16 +36,10 @@
     </p>
 </div>
 
-<img height="10px"/>
-
-
-<img height="20px"/>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baraamohamed13&show_icons=true&theme=dark&locale=en&layout=compact" alt="baraamohamed13" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baraamohamed13&show_icons=true&theme=dark&locale=en" alt="baraamohamed13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baraamohamed13&theme=dark" alt="baraamohamed13" /></p>
-
 
 </div>
