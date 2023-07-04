@@ -1,6 +1,6 @@
 <div class="container">
 <div class="header-container" align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Baraa+Mohamed.+👋;A+passionate+frontend+developer." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Baraa+Mohamed.+👋;A+passionate+frontend+developer.;from+alexandria+egypt+🌍" alt="Typing SVG"/>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=baraamohamed13&label=Profile%20views&color=0e75b6&style=flat" alt="baraamohamed13" /> </p>
 <p align='center'>
